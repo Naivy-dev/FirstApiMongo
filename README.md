@@ -5,7 +5,7 @@ This is an project made with Digital Innovation One's course directions | Esse p
 
 This project consists on an app wich registers cases of COVID 19 and it's location, in wich, with another software (in this case is tested with Mongo Atlas),
 allows who uses to see a graph based on locations provided by the latitude and longitude. 
-And i pretend to update this project in the future, so i can change how it is structured and organize it.
+And i plan on updating this project in the future, so i can change how it is structured and organize it.
 
 _____
 
